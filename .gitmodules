@@ -1,0 +1,9 @@
+[submodule "Prerequisites/Adafruit_Python_DHT"]
+	path = Prerequisites/Adafruit_Python_DHT
+	url = https://github.com/adafruit/Adafruit_Python_DHT.git
+[submodule "Prerequisites/mysql-connector-python"]
+	path = Prerequisites/mysql-connector-python
+	url = https://github.com/mysql/mysql-connector-python.git
+[submodule "Prerequisites/netifaces"]
+	path = Prerequisites/netifaces
+	url = https://github.com/utamaro/netifaces.git
